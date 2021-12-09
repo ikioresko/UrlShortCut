@@ -10,7 +10,8 @@ This app from Java course [job4j.ru](https://job4j.ru)
 
 
 [![Build Status](https://app.travis-ci.com/ikioresko/UrlShortCut.svg?branch=master)](https://app.travis-ci.com/ikioresko/UrlShortCut)
-[![codecov](https://codecov.io/gh/ikioresko/UrlShortCut/branch/master/graph)](https://codecov.io/gh/ikioresko/UrlShortCut)
+
+[comment]: <> ([![codecov]&#40;https://codecov.io/gh/ikioresko/UrlShortCut/branch/master/graph&#41;]&#40;https://codecov.io/gh/ikioresko/UrlShortCut&#41;)
 
 
 # Build app
