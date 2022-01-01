@@ -52,3 +52,6 @@ java -jar UrlShortCut-1.jar
 
 
 ![alt text](https://raw.githubusercontent.com/ikioresko/UrlShortCut/master/images/5.png)
+
+#### Contact
+if you have any questions, feel free to contact me [Telegram](https://t.me/ikioresko)
